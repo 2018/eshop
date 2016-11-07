@@ -1,0 +1,17 @@
+{
+  "name": "2018/eshop",
+  "type": "package",
+  "description": "Eshop package with cart module for FuelPHP apllication",
+  "keywords": ["cart","fuelphp","eshop"],
+  "homepage": "http://github.com/2018/eshop",
+  "license": "MIT Licence",
+  "authors": [
+    {
+      "name": "Oleksiy",
+      "email": "110@post.cz"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.0"
+  }
+}
