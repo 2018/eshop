@@ -1,6 +1,7 @@
 {
   "name": "2018/eshop",
   "type": "package",
+  "version": "1.0.0",
   "description": "Eshop package with cart module for FuelPHP apllication",
   "keywords": ["cart","fuelphp","eshop"],
   "homepage": "http://github.com/2018/eshop",
